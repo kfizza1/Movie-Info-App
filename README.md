@@ -5,6 +5,8 @@ This app allows users to search for movies and view detailed information using t
 
 ---
 
+# Live Demo: (https://kfizza1.github.io/Movie-Info-App/)
+
 ## 🚀 Features
 
 - 🔍 Search movies by title
